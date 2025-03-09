@@ -1,7 +1,10 @@
 <div align="center">
 <h2>Hello 👋, I'm Brandon Lo</h2>
+ 
+<a href="https://www.linkedin.com/in/bklo94/" target="_blank">
+  <img align="center" alt="Brandon Lo | LinkedIn" height="40px" src="https://user-images.githubusercontent.com/26912178/209459800-a1619be0-35ba-4952-8e1b-93f12e80cb0b.png"/>
+</a>
 
-[<img align="center" alt="Brandon Lo | LinkedIn" height="40px" src="https://user-images.githubusercontent.com/26912178/209459800-a1619be0-35ba-4952-8e1b-93f12e80cb0b.png"/>][linkedin]
 
 
 </div>
@@ -10,7 +13,7 @@
 
 I'm a Senior Data Engineer based in the San Francisco Bay Area.
 
-- :hammer_and_pick: Python / C++ / Golang / Java / Bash / Git / Ansible :hammer_and_pick:
+- :hammer_and_pick: Python / C++ / Golang / Java / Bash / Git / Ansible / Docker / Kubernetes :hammer_and_pick:
 - :pencil2: Linux & Bash & Windows & VSCode :pencil2:
 
 <table>
